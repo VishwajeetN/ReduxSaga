@@ -11,6 +11,17 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+If getting below error in browser
+
+ERROR in ./src/redux/reducer.js 3:0-62
+Module not found: Error: Can't resolve '@reduxjs/toolkit' in 'C:\Users\Public\Documents\Redux-Saga\new-redux-with-saga\ReduxSaga\src\redux'
+
+ERROR in ./src/store/store.js 4:0-50
+Module not found: Error: Can't resolve '@reduxjs/toolkit' in 'C:\Users\Public\Documents\Redux-Saga\new-redux-with-saga\ReduxSaga\src\store'
+
+=> Then run the below npm command in Terminal window to update the @reduxjs/toolkit package.
+npm install @reduxjs/toolkit
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
