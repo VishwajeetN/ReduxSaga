@@ -1,4 +1,4 @@
-# Youtuber channel <CODERS NEVER QUIT>
+# Youtuber channel - CODERS NEVER QUIT
 
 Video Name - #22 Redux Saga Crash Course with Redux Toolkit in Hindi.
 
